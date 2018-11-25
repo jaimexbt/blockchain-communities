@@ -17,3 +17,4 @@ An exhaustive list of blockchain communities around the world sorted by country.
 | [Valladolid Blockchain](https://www.meetup.com/es-ES/Valladolid-Blockchain-Meetup/) 	| Any blockchain technology 	| [@VaBlockchain](https://twitter.com/vablockchain)     	| Valladolid              	|
 | [AvalBit](https://www.meetup.com/es-ES/ValenciaBitcoin/)         	| Any blockchain technology 	| [@avalBit](https://twitter.com/avalbit) 	| Valencia  
 | [Blocks&Beers](https://blocksandbeers.org)         	| Blockchain disclosure events 	| [@BlockandBeers](https://twitter.com/BlockandBeers) 	| Vila-real / Castellón  
+[Albabit](https://Albabit.org)         	| Any blockchain technology 	| [@BitcoinAlbacete](https://twitter.com/BitcoinAlbacete) 	| Albacete  
